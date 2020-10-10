@@ -1,6 +1,6 @@
 # Gruvbox Material theme for Xcode
 
-Port of the [Gruvbox Material theme for VSCode](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material).
+Port of the [Gruvbox Material theme for VSCode](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material). The font in the screenshot is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 ![Theme preview](preview.png)
 
